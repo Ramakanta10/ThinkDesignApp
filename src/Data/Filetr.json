@@ -1,0 +1,96 @@
+[
+  {
+    "name": "Launch Year",
+    "selectedValue":"",
+    "value": [
+      {
+        "type": "2006",
+        "show": false
+      },
+      {
+        "type": "2007",
+        "show": false
+      },
+      {
+        "type": "2008",
+        "show": false
+      },
+      {
+        "type": "2009",
+        "show": false
+      },
+      {
+        "type": "2010",
+        "show": false
+      },
+      {
+        "type": "2011",
+        "show": false
+      },
+      {
+        "type": "2012",
+        "show": false
+      },
+      {
+        "type": "2013",
+        "show": false
+      },
+      {
+        "type": "2014",
+        "show": false
+      },
+      {
+        "type": "2015",
+        "show": false
+      },
+      {
+        "type": "2016",
+        "show": false
+      },
+      {
+        "type": "2017",
+        "show": false
+      },
+      {
+        "type": "2018",
+        "show": false
+      },
+      {
+        "type": "2019",
+        "show": false
+      },
+      {
+        "type": "2020",
+        "show": false
+      }
+    ]
+  },
+  {
+    "name": "Successful Launch",
+    "selectedValue":"",
+    "value": [
+      {
+        "type": "True",
+        "show": false
+      },
+      {
+        "type": "False",
+        "show": false
+      }
+    ]
+  },
+  {
+    "name": "Successful Landing",
+    "selectedValue":"",
+    "value": [
+      {
+        "type": "True",
+        "show": false
+      },
+      {
+        "type": "False",
+        "show": false
+      }
+    ]
+  }
+]
